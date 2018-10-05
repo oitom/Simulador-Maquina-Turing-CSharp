@@ -1,2 +1,2 @@
-# Simulador-Turing-C-
+# Simulador Turing em C#
 Simulador da máquina de Turing
